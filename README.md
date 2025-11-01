@@ -53,4 +53,4 @@ Prevents spread fluctuations from being misread as directional price moves in re
 ## Files
 
 - `TRILLEX_10S_BASIC.mq5` — Full EA source, compile in MetaEditor and attach to XAUUSD M1 chart
-<!-- updated: 2025-06-03-r01 -->
+<!-- updated: 2025-11-01-r01 -->
